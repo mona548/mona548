@@ -12,8 +12,6 @@
 
   <br/>
 
-  <img width="768" height="432" alt="Orange and Blue Illustrated Anime Style Gaming Intro Video  (1)" src="https://github.com/user-attachments/assets/27cf7ff4-268a-4625-a5b9-3ed68357a8ca" />
-
 
   <!-- ✦ Greeting ✦ -->
   <h1>
@@ -25,6 +23,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%8C%B8;Creative+Coder+%E2%9C%A8;Lifelong+Learner+%F0%9F%8C%99;Open+Source+Enthusiast+%F0%9F%92%96"
          alt="Typing SVG" />
   </p>
+
+
+  <img width="768" height="432" alt="Orange and Blue Illustrated Anime Style Gaming Intro Video  (1)" src="https://github.com/user-attachments/assets/27cf7ff4-268a-4625-a5b9-3ed68357a8ca" />
 
   <!-- Visitor Badge -->
   <img src="https://komarev.com/ghpvc/?username=mona&style=for-the-badge&color=FF85A1&label=PROFILE+VIEWS"
