@@ -23,6 +23,8 @@
          alt="Typing SVG" />
   </p>
 
+  <img width="768" height="432" alt="Orange and Blue Illustrated Anime Style Gaming Intro Video  (1)" src="https://github.com/user-attachments/assets/27cf7ff4-268a-4625-a5b9-3ed68357a8ca" />
+
   <!-- Visitor Badge -->
   <img src="https://komarev.com/ghpvc/?username=mona&style=for-the-badge&color=FF85A1&label=PROFILE+VIEWS"
        alt="profile views" />
