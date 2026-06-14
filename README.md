@@ -12,7 +12,6 @@
 
   <br/>
 
-
   <!-- ✦ Greeting ✦ -->
   <h1>
     ✦ Hi there, I'm Mona! ✦
@@ -23,9 +22,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=FF85A1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%8C%B8;Creative+Coder+%E2%9C%A8;Lifelong+Learner+%F0%9F%8C%99;Open+Source+Enthusiast+%F0%9F%92%96"
          alt="Typing SVG" />
   </p>
-
-
-  <img width="768" height="432" alt="Orange and Blue Illustrated Anime Style Gaming Intro Video  (1)" src="https://github.com/user-attachments/assets/27cf7ff4-268a-4625-a5b9-3ed68357a8ca" />
 
   <!-- Visitor Badge -->
   <img src="https://komarev.com/ghpvc/?username=mona&style=for-the-badge&color=FF85A1&label=PROFILE+VIEWS"
@@ -48,7 +44,8 @@
 ```typescript
 const mona = {
   pronouns   : "she / her",
-  location   : "Somewhere cozy with lo-fi beats ☕🎧",
+  location   : "Cairo, Egypt 🌙",
+  school     : "International School of Choueifat – Cairo 🎓",
   currentFocus: "Building beautiful & meaningful web experiences",
   learning   : ["TypeScript", "System Design", "Web Accessibility"],
   goals      : ["Contribute to impactful open-source projects",
@@ -176,6 +173,7 @@ const mona = {
 
 | 🌸 Status | 💖 What |
 |:---------:|:--------|
+| 🎓 Student at | [International School of Choueifat – Cairo](https://github.com/ISC-6October) |
 | 🔨 Building | A personal portfolio with Next.js & Framer Motion |
 | 📖 Learning | Advanced TypeScript patterns & System Design |
 | 🤝 Looking to | Collaborate on open-source creative tools |
@@ -194,6 +192,8 @@ const mona = {
 <div align="center">
   <h2>💌 &nbsp;Connect with Me&nbsp; 💌</h2>
   <p><i>I love meeting fellow developers & creatives — let's connect! ✨</i></p>
+
+  [![School](https://img.shields.io/badge/🎓_International_School_of_Choueifat-Cairo-%23FF85A1?style=for-the-badge&logoColor=white)](https://github.com/ISC-6October)
 
   <!-- Replace # with your actual profile URLs -->
   <a href="#">
